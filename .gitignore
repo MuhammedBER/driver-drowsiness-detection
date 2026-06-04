@@ -1,0 +1,29 @@
+# Model & large files
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Datasets
+*.csv
+*.zip
+*.tar.gz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
